@@ -9,84 +9,105 @@ As a Rust beginner, this repository is create for practice and learning. You are
 |  #   | Title  | Solution | Difficulty |
 |  ----  | ----  | ----  | ----  |
 | 88  | [Merge Sorted Array](https://leetcode.cn/problems/merge-sorted-array/) | [solution](./add_two_numbers/src/main.rs)  | Medium |
-| 39  | [Merge Sorted Array](https://leetcode.cn/problems/combination-sum/) | [solution](./combination-sum/src/main.rs)  | Medium |
-| 448  | [Find all numbers disappeared in an array](https://leetcode.cn/problems/find-all-numbers-disappeared-in-an-array/) | [solution](./find-all-numbers-disappeared-in-an-array/src/main.rs)  | Easy |
-| 169 | [Majority element](https://leetcode.cn/problems/majority-element/) | [solution](./majority-element/src/main.rs)  | Easy |
-| 485 | [Max consecutive ones](https://leetcode.cn/problems/max-consecutive-ones/) | [solution](./max-consecutive-ones/src/main.rs)  | Easy |
-| 628 | [Maximum product of three numbers](https://leetcode.cn/problems/maximum-product-of-three-numbers/) | [solution](./maximum-product-of-three-numbers/src/main.rs)  | Easy |
-| 56 | [Merge intervals](https://leetcode.cn/problems/merge-intervals/) | [solution](./merge-intervals/src/main.rs)  | Medium |
-| 88 | [Merge sorted array](https://leetcode.cn/problems/merge-sorted-array/) | [solution](./merge-sorted-array/src/main.rs)  | Easy |
-| 915 | [Partition array into disjoint intervals](https://leetcode.cn/problems/partition-array-into-disjoint-intervals/) | [solution](./partition-array-into-disjoint-intervals/src/main.rs)  | Easy |
-| 278 | [Product of array except self](https://leetcode.cn/problems/product-of-array-except-self/) | [solution](./product-of-array-except-self/src/main.rs)  | Easy |
-|  | [remove_duplicates](https://leetcode.cn/problems/remove_duplicates/) | [solution](./remove_duplicates/src/main.rs)  | Easy |
+| 39  | [Merge Sorted Array](https://leetcode.cn/problems/combination-sum/) | [solution](./src/combination-sum/src/main.rs)  | Medium |
+| 448  | [Find all numbers disappeared in an array](https://leetcode.cn/problems/find-all-numbers-disappeared-in-an-array/) | [solution](./src/find-all-numbers-disappeared-in-an-array/src/main.rs)  | Easy |
+| 169 | [Majority element](https://leetcode.cn/problems/majority-element/) | [solution](./src/majority-element/src/main.rs)  | Easy |
+| 485 | [Max consecutive ones](https://leetcode.cn/problems/max-consecutive-ones/) | [solution](./src/max-consecutive-ones/src/main.rs)  | Easy |
+| 628 | [Maximum product of three numbers](https://leetcode.cn/problems/maximum-product-of-three-numbers/) | [solution](./src/maximum-product-of-three-numbers/src/main.rs)  | Easy |
+| 56 | [Merge intervals](https://leetcode.cn/problems/merge-intervals/) | [solution](./src/merge-intervals/src/main.rs)  | Medium |
+| 88 | [Merge sorted array](https://leetcode.cn/problems/merge-sorted-array/) | [solution](./src/merge-sorted-array/src/main.rs)  | Easy |
+| 915 | [Partition array into disjoint intervals](https://leetcode.cn/problems/partition-array-into-disjoint-intervals/) | [solution](./src/partition-array-into-disjoint-intervals/src/main.rs)  | Easy |
+| 278 | [Product of array except self](https://leetcode.cn/problems/product-of-array-except-self/) | [solution](./src/product-of-array-except-self/src/main.rs)  | Easy |
+|  | [remove_duplicates](https://leetcode.cn/problems/remove_duplicates/) | [solution](./src/remove_duplicates/src/main.rs)  | Easy |
+| 27 | [remove-element](https://leetcode.cn/problems/remove-element/) | [solution](./src/remove-element/src/main.rs)  | Easy |
+|  | [Single number](https://leetcode.cn/problems/single-number/) | [solution](./src/single-number/src/main.rs)  | Easy |
+| 54 | [Spiral matrix](https://leetcode.cn/problems/spiral-matrix/) | [solution](./src/spiral-matrix/src/main.rs)  | Medium |
+|  | [Removespiral matrix ii](https://leetcode.cn/problems/spiral-matrix-ii/) | [solution](./src/spiral-matrix-ii/src/main.rs)  | Easy |
 
 ## String
 |  #   | Title  | Solution | Difficulty |
 |  ----  | ----  | ----  | ----  |
-| 58 | [Length of last word](https://leetcode.cn/problems/length-of-last-word/) | [solution](./length-of-last-word/src/main.rs)  | Easy |
-| 1768 | [Merge strings alternately](https://leetcode.cn/problems/merge-strings-alternately/) | [solution](./merge-strings-alternately/src/main.rs)  | Easy |
+| 58 | [Length of last word](https://leetcode.cn/problems/length-of-last-word/) | [solution](./src/length-of-last-word/src/main.rs)  | Easy |
+| 1768 | [Merge strings alternately](https://leetcode.cn/problems/merge-strings-alternately/) | [solution](./src/merge-strings-alternately/src/main.rs)  | Easy |
 
 
 ## LinkedList
 
 |  #   | Title  | Solution | Difficulty |
 |  ----  | ----  | ----  | ----  |
-| 2  | [Add Two Numbers](https://leetcode.cn/problems/add-two-numbers/) | [solution](./add_two_numbers/src/main.rs)  | Medium |
-|   | [Palindrome LinkedList](https://leetcode.cn/problems/aMhZSa/) | [solution](./aMhZSa/src/main.rs)  | Easy |
-|   | [LinkedList Reversed Print](https://leetcode.cn/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/) | [solution](./cong-wei-dao-tou-da-yin-lian-biao-lcof/src/main.rs)  | Easy |
-| 11  | [Container with Most Water](https://leetcode.cn/problems/container-with-most-water/) | [solution](./container-with-most-water/src/main.rs)  | Medium |
-| 217  | [Contains Duplicate](https://leetcode.cn/problems/contains-duplicate/) | [solution](./contains-duplicate/src/main.rs)  | Easy |
-| 219  | [Contains Duplicate](https://leetcode.cn/problems/contains-duplicate-ii/) | [solution](./contains-duplicate-ii/src/main.rs)  | Easy |
-|   | [LinkedList Reverse](https://leetcode.cn/problems/fan-zhuan-lian-biao-lcof/) | [solution](./fan-zhuan-lian-biao-lcof/src/main.rs)  | Easy |
-| 21 | [Merge two sorted lists](https://leetcode.cn/problems/merge-two-sorted-lists/) | [solution](./merge-two-sorted-lists/src/main.rs)  | Easy |
-| 21 | [Middle of the linked list](https://leetcode.cn/problems/middle-of-the-linked-list/) | [solution](./middle-of-the-linked-list/src/main.rs)  | Easy |
-| 328 | [Odd even linked list](https://leetcode.cn/problems/odd-even-linked-list/) | [solution](./odd-even-linked-list/src/main.rs)  | Easy |
-| 234 | [Palindrome linked list](https://leetcode.cn/problems/palindrome-linked-list/) | [solution](./palindrome-linked-list/src/main.rs)  | Easy |
-| 83 | [Remove duplicates from sorted list](https://leetcode.cn/problems/remove-duplicates-from-sorted-list/) | [solution](./remove-duplicates-from-sorted-list/src/main.rs)  | Easy |
+| 2  | [Add Two Numbers](https://leetcode.cn/problems/add-two-numbers/) | [solution](./src/add_two_numbers/src/main.rs)  | Medium |
+|   | [Palindrome LinkedList](https://leetcode.cn/problems/aMhZSa/) | [solution](./src/aMhZSa/src/main.rs)  | Easy |
+|   | [LinkedList Reversed Print](https://leetcode.cn/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/) | [solution](./src/cong-wei-dao-tou-da-yin-lian-biao-lcof/src/main.rs)  | Easy |
+| 11  | [Container with Most Water](https://leetcode.cn/problems/container-with-most-water/) | [solution](./src/container-with-most-water/src/main.rs)  | Medium |
+| 217  | [Contains Duplicate](https://leetcode.cn/problems/contains-duplicate/) | [solution](./src/contains-duplicate/src/main.rs)  | Easy |
+| 219  | [Contains Duplicate](https://leetcode.cn/problems/contains-duplicate-ii/) | [solution](./src/contains-duplicate-ii/src/main.rs)  | Easy |
+|   | [LinkedList Reverse](https://leetcode.cn/problems/fan-zhuan-lian-biao-lcof/) | [solution](./src/fan-zhuan-lian-biao-lcof/src/main.rs)  | Easy |
+| 21 | [Merge two sorted lists](https://leetcode.cn/problems/merge-two-sorted-lists/) | [solution](./src/merge-two-sorted-lists/src/main.rs)  | Easy |
+| 21 | [Middle of the linked list](https://leetcode.cn/problems/middle-of-the-linked-list/) | [solution](./src/middle-of-the-linked-list/src/main.rs)  | Easy |
+| 328 | [Odd even linked list](https://leetcode.cn/problems/odd-even-linked-list/) | [solution](./src/odd-even-linked-list/src/main.rs)  | Easy |
+| 234 | [Palindrome linked list](https://leetcode.cn/problems/palindrome-linked-list/) | [solution](./src/palindrome-linked-list/src/main.rs)  | Easy |
+| 83 | [Remove duplicates from sorted list](https://leetcode.cn/problems/remove-duplicates-from-sorted-list/) | [solution](./src/remove-duplicates-from-sorted-list/src/main.rs)  | Easy |
+| 203 | [Remove linked list elements](https://leetcode.cn/problems/remove-linked-list-elements/) | [solution](./src/remove-linked-list-elements/src/main.rs)  | Easy |
+| 206 | [Reverse linked list](https://leetcode.cn/problems/reverse-linked-list/) | [solution](./src/reverse-linked-list/src/main.rs)  | Easy |
+|  | [Delete node of LinkedList](https://leetcode.cn/problems/shan-chu-lian-biao-de-jie-dian-lcof/) | [solution](./src/shan-chu-lian-biao-de-jie-dian-lcof/src/main.rs)  | Easy |
+| 24 | [Swap nodes in pairs](https://leetcode.cn/problems/swap-nodes-in-pairs/) | [solution](./src/swap-nodes-in-pairs/src/main.rs)  | Easy |
+
+## Stack
+|  #   | Title  | Solution | Difficulty |
+|  ----  | ----  | ----  | ----  |
+| 20 | [Valid parentheses](https://leetcode.cn/problems/valid-parentheses/) | [solution](./src/valid-parentheses/src/main.rs)  | Easy |
 
 ## Binary Search
 
 |  #   | Title  | Solution | Difficulty |
 |  ----  | ----  | ----  | ----  |
-| 441 | [Arranging coins](https://leetcode.cn/problems/arranging-coins/) | [solution](./arranging-coins/src/main.rs)  | Easy |
-| 34 | [Find first and last position of element in sorted array](https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/) | [solution](./arranging-coins/src/main.rs)  | Medium |
-| 162 | [Find peak element](https://leetcode.cn/problems/find-peak-element/) | [solution](./find-peak-element/src/main.rs)  | Medium |
-| 744 | [Find smallest letter greater than target](https://leetcode.cn/problems/find-smallest-letter-greater-than-target/) | [solution](./find-smallest-letter-greater-than-target/src/main.rs)  | Easy |
-| 1385 | [Find the distance value between two arrays](https://leetcode.cn/problems/find-the-distance-value-between-two-arrays/) | [solution](./find-the-distance-value-between-two-arrays/src/main.rs)  | Easy |
-| 287 | [Find the duplicate number](https://leetcode.cn/problems/find-the-duplicate-number/) | [solution](./find-the-duplicate-number/src/main.rs)  | Easy |
-| 278 | [First bad version](https://leetcode.cn/problems/first-bad-version/) | [solution](./first-bad-version/src/main.rs)  | Easy |
-| 374 | [Guess number higher or lower](https://leetcode.cn/problems/guess-number-higher-or-lower/) | [solution](./guess-number-higher-or-lower/src/main.rs)  | Easy |
-| 1539 | [Kth missing positive number](https://leetcode.cn/problems/kth-missing-positive-number/) | [solution](./kth-missing-positive-number/src/main.rs)  | Easy |
-| 209 | [Minimum size subarray sum](https://leetcode.cn/problems/minimum-size-subarray-sum/) | [solution](./minimum-size-subarray-sum/src/main.rs)  | Easy |
-| 268 | [Missing number](https://leetcode.cn/problems/missing-number/) | [solution](./missing-number/src/main.rs)  | Easy |
-| 852 | [Peak index in a mountain array](https://leetcode.cn/problems/peak-index-in-a-mountain-array/) | [solution](./peak-index-in-a-mountain-array/src/main.rs)  | Easy |
+| 441 | [Arranging coins](https://leetcode.cn/problems/arranging-coins/) | [solution](./src/arranging-coins/src/main.rs)  | Easy |
+| 34 | [Find first and last position of element in sorted array](https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/) | [solution](./src/arranging-coins/src/main.rs)  | Medium |
+| 162 | [Find peak element](https://leetcode.cn/problems/find-peak-element/) | [solution](./src/find-peak-element/src/main.rs)  | Medium |
+| 744 | [Find smallest letter greater than target](https://leetcode.cn/problems/find-smallest-letter-greater-than-target/) | [solution](./src/find-smallest-letter-greater-than-target/src/main.rs)  | Easy |
+| 1385 | [Find the distance value between two arrays](https://leetcode.cn/problems/find-the-distance-value-between-two-arrays/) | [solution](./src/find-the-distance-value-between-two-arrays/src/main.rs)  | Easy |
+| 287 | [Find the duplicate number](https://leetcode.cn/problems/find-the-duplicate-number/) | [solution](./src/find-the-duplicate-number/src/main.rs)  | Easy |
+| 278 | [First bad version](https://leetcode.cn/problems/first-bad-version/) | [solution](./src/first-bad-version/src/main.rs)  | Easy |
+| 374 | [Guess number higher or lower](https://leetcode.cn/problems/guess-number-higher-or-lower/) | [solution](./src/guess-number-higher-or-lower/src/main.rs)  | Easy |
+| 1539 | [Kth missing positive number](https://leetcode.cn/problems/kth-missing-positive-number/) | [solution](./src/kth-missing-positive-number/src/main.rs)  | Easy |
+| 209 | [Minimum size subarray sum](https://leetcode.cn/problems/minimum-size-subarray-sum/) | [solution](./src/minimum-size-subarray-sum/src/main.rs)  | Easy |
+| 268 | [Missing number](https://leetcode.cn/problems/missing-number/) | [solution](./src/missing-number/src/main.rs)  | Easy |
+| 852 | [Peak index in a mountain array](https://leetcode.cn/problems/peak-index-in-a-mountain-array/) | [solution](./src/peak-index-in-a-mountain-array/src/main.rs)  | Easy |
+| 35 | [Search insert position](https://leetcode.cn/problems/search-insert-position/) | [solution](./src/search-insert-position/src/main.rs)  | Easy |
+| 69 | [Sqrtx](https://leetcode.cn/problems/sqrtx/) | [solution](./src/sqrtx/src/main.rs)  | Easy |
+|  | [Three sum closest](https://leetcode.cn/problems/three-sum-closest/) | [solution](./src/three-sum-closest/src/main.rs)  | Easy |
+| 367 | [Valid perfect square](https://leetcode.cn/problems/valid-perfect-square/) | [solution](./src/valid-perfect-square/src/main.rs)  | Easy |
 
 ## Sort 
 |  #   | Title  | Solution | Difficulty |
 |  ----  | ----  | ----  | ----  |
-|  | [Check Permutation](https://leetcode.cn/problems/check-permutation-lcci/) | [solution](./check-permutation-lcci/src/main.rs)  | Easy |
-| 389 | [Find the difference](https://leetcode.cn/problems/find-the-difference/) | [solution](./find-the-difference/src/main.rs)  | Easy |
-| 747 | [Largest number at least twice of others](https://leetcode.cn/problems/largest-number-at-least-twice-of-others/) | [solution](./largest-number-at-least-twice-of-others/src/main.rs)  | Easy |
+|  | [Check Permutation](https://leetcode.cn/problems/check-permutation-lcci/) | [solution](./src/check-permutation-lcci/src/main.rs)  | Easy |
+| 389 | [Find the difference](https://leetcode.cn/problems/find-the-difference/) | [solution](./src/find-the-difference/src/main.rs)  | Easy |
+| 747 | [Largest number at least twice of others](https://leetcode.cn/problems/largest-number-at-least-twice-of-others/) | [solution](./src/largest-number-at-least-twice-of-others/src/main.rs)  | Easy |
+|  | [Most small k of numbers](https://leetcode.cn/problems/zui-xiao-de-kge-shu-lcof/) | [solution](./src/zui-xiao-de-kge-shu-lcof/src/main.rs)  | Easy |
 
 ## Hash Map
 |  #   | Title  | Solution | Difficulty |
 |  ----  | ----  | ----  | ----  |
-| 2351 | [First letter to appear twice](https://leetcode.cn/problems/first-letter-to-appear-twice/) | [solution](./first-letter-to-appear-twice/src/main.rs)  | Easy |
-|  | [Is unique lcci](https://leetcode.cn/problems/is-unique-lcci/) | [solution](./is-unique-lcci/src/main.rs)  | Easy |
-| 128 | [Longest consecutive sequence](https://leetcode.cn/problems/longest-consecutive-sequence/) | [solution](./longest-consecutive-sequence/src/main.rs)  | Easy |
-| 409 | [Longest palindrome](https://leetcode.cn/problems/longest-palindrome/) | [solution](./longest-palindrome/src/main.rs)  | Easy |
-| 3 | [Longest substring without repeating characters](https://leetcode.cn/problems/longest-substring-without-repeating-characters/) | [solution](./longest-substring-without-repeating-characters/src/main.rs)  | Medium |
-| 567 | [Permutation in string](https://leetcode.cn/problems/permutation-in-string/) | [solution](./permutation-in-string/src/main.rs)  | Medium |
+| 2351 | [First letter to appear twice](https://leetcode.cn/problems/first-letter-to-appear-twice/) | [solution](./src/first-letter-to-appear-twice/src/main.rs)  | Easy |
+|  | [Is unique lcci](https://leetcode.cn/problems/is-unique-lcci/) | [solution](./src/is-unique-lcci/src/main.rs)  | Easy |
+| 128 | [Longest consecutive sequence](https://leetcode.cn/problems/longest-consecutive-sequence/) | [solution](./src/longest-consecutive-sequence/src/main.rs)  | Easy |
+| 409 | [Longest palindrome](https://leetcode.cn/problems/longest-palindrome/) | [solution](./src/longest-palindrome/src/main.rs)  | Easy |
+| 3 | [Longest substring without repeating characters](https://leetcode.cn/problems/longest-substring-without-repeating-characters/) | [solution](./src/longest-substring-without-repeating-characters/src/main.rs)  | Medium |
+| 567 | [Permutation in string](https://leetcode.cn/problems/permutation-in-string/) | [solution](./src/permutation-in-string/src/main.rs)  | Medium |
+|  | [Duplicate number in array](https://leetcode.cn/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/) | [solution](./src/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/src/main.rs)  | Easy |
+|  | [Two sum](https://leetcode.cn/problems/two_sum/) | [solution](./src/two_sum/src/main.rs)  | Easy |
 
 
 ## Dynamic Programming
 
 |  #   | Title  | Solution | Difficulty |
 |  ----  | ----  | ----  | ----  |
-| 70 | [Climbing Stairs](https://leetcode.cn/problems/climbing-stairs/) | [solution](./climbing-stairs/src/main.rs)  | Easy |
-| 64 | [Minimum path sum](https://leetcode.cn/problems/minimum-path-sum/) | [solution](./minimum-path-sum/src/main.rs)  | Easy |
+| 70 | [Climbing Stairs](https://leetcode.cn/problems/climbing-stairs/) | [solution](./src/climbing-stairs/src/main.rs)  | Easy |
+| 64 | [Minimum path sum](https://leetcode.cn/problems/minimum-path-sum/) | [solution](./src/minimum-path-sum/src/main.rs)  | Easy |
 | 118 | [Pascals triangle](https://leetcode.cn/problems/pascals-triangle/) | [solution](./pascals-triangle/src/main.rs)  | Easy |
+| 62 | [Unique paths](https://leetcode.cn/problems/unique-paths/) | [solution](./src/unique-paths/src/main.rs)  | Easy |
 
 ## Math
 
-| 9 | [Palindrome number](https://leetcode.cn/problems/palindrome-number/) | [solution](./palindrome-number/src/main.rs)  | Easy |
+| 9 | [Palindrome number](https://leetcode.cn/problems/palindrome-number/) | [solution](./src/palindrome-number/src/main.rs)  | Easy |
