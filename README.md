@@ -37,6 +37,7 @@ As a Rust beginner, this repository is create for practice and learning. You are
 |   | [LinkedList Reverse](https://leetcode.cn/problems/fan-zhuan-lian-biao-lcof/) | [solution](./fan-zhuan-lian-biao-lcof/src/main.rs)  | Easy |
 | 21 | [Merge two sorted lists](https://leetcode.cn/problems/merge-two-sorted-lists/) | [solution](./merge-two-sorted-lists/src/main.rs)  | Easy |
 | 21 | [Middle of the linked list](https://leetcode.cn/problems/middle-of-the-linked-list/) | [solution](./middle-of-the-linked-list/src/main.rs)  | Easy |
+| 328 | [Odd even linked list](https://leetcode.cn/problems/odd-even-linked-list/) | [solution](./odd-even-linked-list/src/main.rs)  | Easy |
 
 ## Binary Search
 
@@ -51,6 +52,8 @@ As a Rust beginner, this repository is create for practice and learning. You are
 | 278 | [First bad version](https://leetcode.cn/problems/first-bad-version/) | [solution](./first-bad-version/src/main.rs)  | Easy |
 | 374 | [Guess number higher or lower](https://leetcode.cn/problems/guess-number-higher-or-lower/) | [solution](./guess-number-higher-or-lower/src/main.rs)  | Easy |
 | 1539 | [Kth missing positive number](https://leetcode.cn/problems/kth-missing-positive-number/) | [solution](./kth-missing-positive-number/src/main.rs)  | Easy |
+| 209 | [Minimum size subarray sum](https://leetcode.cn/problems/minimum-size-subarray-sum/) | [solution](./minimum-size-subarray-sum/src/main.rs)  | Easy |
+| 268 | [Missing number](https://leetcode.cn/problems/missing-number/) | [solution](./missing-number/src/main.rs)  | Easy |
 
 ## Sort 
 |  #   | Title  | Solution | Difficulty |
