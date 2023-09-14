@@ -16,6 +16,9 @@ As a Rust beginner, this repository is create for practice and learning. You are
 | 628 | [Maximum product of three numbers](https://leetcode.cn/problems/maximum-product-of-three-numbers/) | [solution](./maximum-product-of-three-numbers/src/main.rs)  | Easy |
 | 56 | [Merge intervals](https://leetcode.cn/problems/merge-intervals/) | [solution](./merge-intervals/src/main.rs)  | Medium |
 | 88 | [Merge sorted array](https://leetcode.cn/problems/merge-sorted-array/) | [solution](./merge-sorted-array/src/main.rs)  | Easy |
+| 915 | [Partition array into disjoint intervals](https://leetcode.cn/problems/partition-array-into-disjoint-intervals/) | [solution](./partition-array-into-disjoint-intervals/src/main.rs)  | Easy |
+| 278 | [Product of array except self](https://leetcode.cn/problems/product-of-array-except-self/) | [solution](./product-of-array-except-self/src/main.rs)  | Easy |
+|  | [remove_duplicates](https://leetcode.cn/problems/remove_duplicates/) | [solution](./remove_duplicates/src/main.rs)  | Easy |
 
 ## String
 |  #   | Title  | Solution | Difficulty |
@@ -38,6 +41,8 @@ As a Rust beginner, this repository is create for practice and learning. You are
 | 21 | [Merge two sorted lists](https://leetcode.cn/problems/merge-two-sorted-lists/) | [solution](./merge-two-sorted-lists/src/main.rs)  | Easy |
 | 21 | [Middle of the linked list](https://leetcode.cn/problems/middle-of-the-linked-list/) | [solution](./middle-of-the-linked-list/src/main.rs)  | Easy |
 | 328 | [Odd even linked list](https://leetcode.cn/problems/odd-even-linked-list/) | [solution](./odd-even-linked-list/src/main.rs)  | Easy |
+| 234 | [Palindrome linked list](https://leetcode.cn/problems/palindrome-linked-list/) | [solution](./palindrome-linked-list/src/main.rs)  | Easy |
+| 83 | [Remove duplicates from sorted list](https://leetcode.cn/problems/remove-duplicates-from-sorted-list/) | [solution](./remove-duplicates-from-sorted-list/src/main.rs)  | Easy |
 
 ## Binary Search
 
@@ -54,6 +59,7 @@ As a Rust beginner, this repository is create for practice and learning. You are
 | 1539 | [Kth missing positive number](https://leetcode.cn/problems/kth-missing-positive-number/) | [solution](./kth-missing-positive-number/src/main.rs)  | Easy |
 | 209 | [Minimum size subarray sum](https://leetcode.cn/problems/minimum-size-subarray-sum/) | [solution](./minimum-size-subarray-sum/src/main.rs)  | Easy |
 | 268 | [Missing number](https://leetcode.cn/problems/missing-number/) | [solution](./missing-number/src/main.rs)  | Easy |
+| 852 | [Peak index in a mountain array](https://leetcode.cn/problems/peak-index-in-a-mountain-array/) | [solution](./peak-index-in-a-mountain-array/src/main.rs)  | Easy |
 
 ## Sort 
 |  #   | Title  | Solution | Difficulty |
@@ -70,6 +76,7 @@ As a Rust beginner, this repository is create for practice and learning. You are
 | 128 | [Longest consecutive sequence](https://leetcode.cn/problems/longest-consecutive-sequence/) | [solution](./longest-consecutive-sequence/src/main.rs)  | Easy |
 | 409 | [Longest palindrome](https://leetcode.cn/problems/longest-palindrome/) | [solution](./longest-palindrome/src/main.rs)  | Easy |
 | 3 | [Longest substring without repeating characters](https://leetcode.cn/problems/longest-substring-without-repeating-characters/) | [solution](./longest-substring-without-repeating-characters/src/main.rs)  | Medium |
+| 567 | [Permutation in string](https://leetcode.cn/problems/permutation-in-string/) | [solution](./permutation-in-string/src/main.rs)  | Medium |
 
 
 ## Dynamic Programming
@@ -78,3 +85,8 @@ As a Rust beginner, this repository is create for practice and learning. You are
 |  ----  | ----  | ----  | ----  |
 | 70 | [Climbing Stairs](https://leetcode.cn/problems/climbing-stairs/) | [solution](./climbing-stairs/src/main.rs)  | Easy |
 | 64 | [Minimum path sum](https://leetcode.cn/problems/minimum-path-sum/) | [solution](./minimum-path-sum/src/main.rs)  | Easy |
+| 118 | [Pascals triangle](https://leetcode.cn/problems/pascals-triangle/) | [solution](./pascals-triangle/src/main.rs)  | Easy |
+
+## Math
+
+| 9 | [Palindrome number](https://leetcode.cn/problems/palindrome-number/) | [solution](./palindrome-number/src/main.rs)  | Easy |
