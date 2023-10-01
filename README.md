@@ -107,6 +107,7 @@ As a Rust beginner, this repository is create for practice and learning. You are
 | 64 | [Minimum path sum](https://leetcode.cn/problems/minimum-path-sum/) | [solution](./src/minimum-path-sum/src/main.rs)  | Easy |
 | 118 | [Pascals triangle](https://leetcode.cn/problems/pascals-triangle/) | [solution](./pascals-triangle/src/main.rs)  | Easy |
 | 62 | [Unique paths](https://leetcode.cn/problems/unique-paths/) | [solution](./src/unique-paths/src/main.rs)  | Easy |
+| 509 | [Fibonacci number](https://leetcode.cn/problems/fibonacci-number/description/) | [solution](./src/fibonacci-number/src/main.rs)  | Easy |
 
 ## Math
 
