@@ -23,6 +23,7 @@ As a Rust beginner, this repository is create for practice and learning. You are
 |  | [Single number](https://leetcode.cn/problems/single-number/) | [solution](./src/single-number/src/main.rs)  | Easy |
 | 54 | [Spiral matrix](https://leetcode.cn/problems/spiral-matrix/) | [solution](./src/spiral-matrix/src/main.rs)  | Medium |
 |  | [Removespiral matrix ii](https://leetcode.cn/problems/spiral-matrix-ii/) | [solution](./src/spiral-matrix-ii/src/main.rs)  | Easy |
+| 896 | [Monotonic array](https://leetcode.cn/problems/monotonic-array/) | [solution](./src/monotonic-array/src/main.rs)  | Easy |
 
 ## String
 |  #   | Title  | Solution | Difficulty |
