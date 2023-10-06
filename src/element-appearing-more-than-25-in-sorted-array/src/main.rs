@@ -1,5 +1,3 @@
-use std::collections::HashMap;
-
 fn main() {
     println!("Hello, world!");
 }
@@ -9,21 +7,11 @@ struct Solution { }
 impl Solution {
     pub fn find_special_integer(arr: Vec<i32>) -> i32 {
         let size = arr.len();
-        let target = size / 4;
+        let step = size / 4;
 
-        let mut map: HashMap<i32, usize> = HashMap::new();
-
-        for index in 0..size {
-            if let Some(&value) = map.get(&arr[index]) {
-                map.insert(arr[index], value + 1);
-            } else {
-                map.insert(arr[index], 1);
-            }
-        }
-
-        for (key, value) in map.into_iter() {
-            if value > target {
-                return key;
+        for index in step..size {
+            if arr[index] == arr[index - step] {
+                return arr[index];
             }
         }
         return 0;
