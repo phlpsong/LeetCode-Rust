@@ -33,7 +33,6 @@ impl Solution {
             count += 1;
 
             while count == size {
-                println!("map1: {:?}, map2: {:?}", map1, map2);
                 if map1 == map2 {
                     return true;
                 }

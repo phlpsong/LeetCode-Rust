@@ -26,6 +26,7 @@ As a Rust beginner, this repository is create for practice and learning. You are
 | 896 | [Monotonic array](https://leetcode.cn/problems/monotonic-array/) | [solution](./src/monotonic-array/src/main.rs)  | Easy |
 | 905 | [Monotonic array](https://leetcode.cn/problems/sort_array_by_parity/) | [solution](./src/sort-array-by-parity/src/main.rs)  | Easy |
 | 1207 | [Unique number of occurrences](https://leetcode.cn/problems/unique-number-of-occurrences/) | [solution](./src/unique-number-of-occurrences/src/main.rs)  | Easy |
+| 1287 | [Element appearing more than 25 in sorted array](https://leetcode.cn/problems/element-appearing-more-than-25-in-sorted-array/) | [solution](./src/element-appearing-more-than-25-in-sorted-array/src/main.rs)  | Easy |
 
 ## String
 |  #   | Title  | Solution | Difficulty |
