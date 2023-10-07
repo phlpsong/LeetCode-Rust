@@ -9,20 +9,17 @@ struct Solution { }
 impl Solution {
     pub fn find_lhs(nums: Vec<i32>) -> i32 {
         let mut map: HashMap<i32, i32> = HashMap::new();
-        for index in 0..nums.len() {
-            if let Some(&value) = map.get(&nums[index]) {
-                map.insert(nums[index], value + 1);
-            } else {
-                map.insert(nums[index], 1);
-            }
+        for num in nums {
+            *map.entry(num).or_insert(0) += 1;
         }
-
+        
         let mut res = 0;
-        for (key, value) in map.clone().into_iter() {
-            if let Some(&next_val) = map.get(&(key + 1)) {
-                if (value + next_val) > res {
-                    res = value + next_val;
-                }
+        for (&key, &val) in map.iter() {
+            if let Some(next_val) = map.get(&(key - 1)) {
+                res = res.max(val + next_val);
+            }
+            if let Some(next_val) = map.get(&(key + 1)) {
+                res = res.max(val + next_val);
             }
         }
 
