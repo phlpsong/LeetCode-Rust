@@ -25,6 +25,7 @@ As a Rust beginner, this repository is create for practice and learning. You are
 |  | [Removespiral matrix ii](https://leetcode.cn/problems/spiral-matrix-ii/) | [solution](./src/spiral-matrix-ii/src/main.rs)  | Easy |
 | 350 | [Intersection of two arrays II](https://leetcode.cn/problems/intersection-of-two-arrays-ii/) | [solution](./src/intersection-of-two-arrays-ii/src/main.rs)  | Easy |
 | 349 | [Intersection of two arrays](https://leetcode.cn/problems/intersection-of-two-arrays/) | [solution](./src/intersection-of-two-arrays/src/main.rs)  | Easy |
+| 594 | [Longest harmonious subsequence](https://leetcode.cn/problems/longest-harmonious-subsequence/) | [solution](./src/longest-harmonious-subsequence/src/main.rs)  | Easy |
 | 896 | [Monotonic array](https://leetcode.cn/problems/monotonic-array/) | [solution](./src/monotonic-array/src/main.rs)  | Easy |
 | 905 | [Monotonic array](https://leetcode.cn/problems/sort_array_by_parity/) | [solution](./src/sort-array-by-parity/src/main.rs)  | Easy |
 | 1207 | [Unique number of occurrences](https://leetcode.cn/problems/unique-number-of-occurrences/) | [solution](./src/unique-number-of-occurrences/src/main.rs)  | Easy |
