@@ -9,10 +9,12 @@ impl Solution {
         let mut res: Vec<i32> = vec![0; operations.len()];
         let mut point_index = 0;
         let mut iter_index = 0;
+        let mut count = 0;
         while iter_index < operations.len() {
             let ele = &operations[iter_index];
             if ele == "C" {
                 point_index -= 1;
+                count -= res[point_index];
                 iter_index += 1;
                 continue;
             }
@@ -23,13 +25,9 @@ impl Solution {
             } else {
                 res[point_index] = operations[iter_index].parse::<i32>().unwrap();
             }
+            count += res[point_index];
             point_index += 1;
             iter_index += 1;
-        }
-        
-        let mut count = 0;
-        for index in 0..point_index {
-            count += res[index];
         }
         return count;
     }
