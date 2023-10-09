@@ -6,25 +6,14 @@ struct Solution { }
 
 impl Solution {
     pub fn pivot_index(nums: Vec<i32>) -> i32 {
-        let mut left_vec: Vec<i32> = vec![];
-        let mut right_vec: Vec<i32> = vec![0; nums.len()];
-
-        let mut sum = 0;
-        for index in 0..nums.len() {
-            left_vec.push(sum);
-            sum += nums[index];
-        }
-
-        sum = 0;
-        for index in (0..nums.len()).rev() {
-            right_vec[index] = sum;
-            sum += nums[index];
-        }
+        let mut left_sum = 0;
+        let total_sum: i32 = nums.iter().sum();
 
         for index in 0..nums.len() {
-            if left_vec[index] == right_vec[index] {
+            if left_sum * 2 == total_sum - nums[index] {
                 return index as i32;
             }
+            left_sum += nums[index];
         }
         return -1;
     }
