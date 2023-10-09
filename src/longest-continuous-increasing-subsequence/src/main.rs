@@ -6,21 +6,16 @@ struct Solution { }
 
 impl Solution {
     pub fn find_length_of_lcis(nums: Vec<i32>) -> i32 {
-        let mut max_len = 1;
+        let mut max_len = 0;
+        let mut start = 0;
         for index in 0..nums.len() {
-            let mut curr = nums[index];
-            let mut length = 1;
-            let mut next = index + 1;
-            while next < nums.len() && nums[next] > curr {
-                length += 1;
-                curr = nums[next];
-                next += 1;
-
-                max_len = max_len.max(length);
+            if index > 0 && nums[index] <= nums[index - 1] {
+                start = index;
             }
+            max_len = max_len.max(index - start + 1);
         }
 
-        return max_len;
+        return max_len as i32;
     }
 }
 
