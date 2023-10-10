@@ -5,30 +5,20 @@ fn main() {
 struct Solution { }
 
 impl Solution {
-    pub fn sort_array_by_parity_ii(nums: Vec<i32>) -> Vec<i32> {
-        let mut even_nums: Vec<i32> = vec![];
-        let mut odd_nums: Vec<i32> = vec![];
-        for index in 0..nums.len() {
-            if nums[index] % 2 == 0 {
-                even_nums.push(nums[index]);
-            } else {
-                odd_nums.push(nums[index]);
-            }
-        }
+    pub fn sort_array_by_parity_ii(mut nums: Vec<i32>) -> Vec<i32> {
+        let n = nums.len();
 
-        let mut res = vec![];
-        let mut even_index = 0;
-        let mut odd_index = 0;
-        for index in 0..nums.len() {
-            if index % 2 == 0 {
-                res.push(even_nums[even_index]);
-                even_index += 1;
-            } else {
-                res.push(odd_nums[odd_index]);
-                odd_index += 1;
+        let mut next = 1;
+
+        for index in (0..n).step_by(2) {
+            if nums[index] % 2 == 1 {
+                while nums[next] % 2 == 1 {
+                    next += 2;
+                }
+                nums.swap(index, next);
             }
         }
-        return res;
+        return nums;
     }
 }
 
