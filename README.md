@@ -33,6 +33,7 @@ As a Rust beginner, this repository is create for practice and learning. You are
 | 896 | [Monotonic array](https://leetcode.cn/problems/monotonic-array/) | [solution](./src/monotonic-array/src/main.rs)  | Easy |
 | 905 | [sort_array_by_parity](https://leetcode.cn/problems/sort_array_by_parity/) | [solution](./src/sort-array-by-parity/src/main.rs)  | Easy |
 | 922 | [Sort array by parity II](https://leetcode.cn/problems/sort_array_by_parity-ii/) | [solution](./src/sort-array-by-parity-ii/src/main.rs)  | Easy |
+| 977 | [Squares of a sorted array](https://leetcode.cn/problems/squares-of-a-sorted-array/) | [solution](./src/squares-of-a-sorted-array/src/main.rs)  | Easy |
 | 1207 | [Unique number of occurrences](https://leetcode.cn/problems/unique-number-of-occurrences/) | [solution](./src/unique-number-of-occurrences/src/main.rs)  | Easy |
 | 1287 | [Element appearing more than 25 in sorted array](https://leetcode.cn/problems/element-appearing-more-than-25-in-sorted-array/) | [solution](./src/element-appearing-more-than-25-in-sorted-array/src/main.rs)  | Easy |
 | 1464 | [Maximum product of two elements in an array](https://leetcode.cn/problems/maximum-product-of-two-elements-in-an-array/) | [solution](./src/maximum-product-of-two-elements-in-an-array/src/main.rs)  | Easy |
