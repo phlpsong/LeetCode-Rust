@@ -29,6 +29,7 @@ As a Rust beginner, this repository is create for practice and learning. You are
 | 594 | [Longest harmonious subsequence](https://leetcode.cn/problems/longest-harmonious-subsequence/) | [solution](./src/longest-harmonious-subsequence/src/main.rs)  | Easy |
 | 674 | [Baseball game](https://leetcode.cn/problems/longest-continuous-increasing-subsequence/) | [solution](./src/longest-continuous-increasing-subsequence/src/main.rs)  | Easy |
 | 682 | [Baseball game](https://leetcode.cn/problems/baseball-game/) | [solution](./src/baseball-game/src/main.rs)  | Easy |
+| 697 | [Degree of an array](https://leetcode.cn/problems/degree-of-an-array/) | [solution](./src/degree-of-an-array/src/main.rs)  | Easy |
 | 724 | [Find pivot index](https://leetcode.cn/problems/find-pivot-index/) | [solution](./src/find-pivot-index/src/main.rs)  | Easy |
 | 896 | [Monotonic array](https://leetcode.cn/problems/monotonic-array/) | [solution](./src/monotonic-array/src/main.rs)  | Easy |
 | 905 | [sort_array_by_parity](https://leetcode.cn/problems/sort_array_by_parity/) | [solution](./src/sort-array-by-parity/src/main.rs)  | Easy |
