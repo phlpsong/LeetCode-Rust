@@ -8,18 +8,18 @@ struct Solution { }
 
 impl Solution {
     pub fn find_shortest_sub_array(nums: Vec<i32>) -> i32 {
-        let mut map: HashMap<i32, Vec<i32>> = HashMap::new();
+        let mut map = HashMap::new();
         let mut degree = 0;
         for index in 0..nums.len() {
-            let cell = map.entry(nums[index]).or_insert(vec![0, index as i32, 1]);
-            cell[0] = cell[0] + 1;
-            cell[2] = (index as i32) - cell[1] + 1;
-            degree = degree.max(cell[0]);
+            let cell = map.entry(nums[index]).or_insert((0, index as i32, 1));
+            cell.0 = cell.0 + 1;
+            cell.2 = (index as i32) - cell.1 + 1;
+            degree = degree.max(cell.0);
         }
         
         return map.values()
-            .filter(|cell| cell[0] == degree)
-            .map(|cell| cell[2])
+            .filter(|cell| cell.0 == degree)
+            .map(|cell| cell.2)
             .min()
             .unwrap() as i32;
     }
