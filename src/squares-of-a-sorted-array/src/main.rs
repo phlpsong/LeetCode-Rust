@@ -15,11 +15,9 @@ impl Solution {
             curr_index -= 1;
             if nums[left as usize] + nums[right as usize] < 0 {
                 res[curr_index] = nums[left as usize] * nums[left as usize];
-                println!("left: {}", left);
                 left += 1;
             } else {
                 res[curr_index] = nums[right as usize] * nums[right as usize];
-                println!("right: {}", right);
                 right -= 1;
             }
         }

@@ -8,15 +8,14 @@ impl Solution {
     pub fn sort_array_by_parity_ii(mut nums: Vec<i32>) -> Vec<i32> {
         let n = nums.len();
 
-        let mut next = 1;
-
-        for index in (0..n).step_by(2) {
-            if nums[index] % 2 == 1 {
-                while nums[next] % 2 == 1 {
-                    next += 2;
+        let mut odd_index = 1;
+        for even_index in (0..n).step_by(2) {
+            if nums[even_index] % 2 == 1 {
+                while nums[odd_index] % 2 == 1 {
+                    odd_index += 2;
                 }
-                nums.swap(index, next);
-            }
+                nums.swap(odd_index, even_index);
+            }   
         }
         return nums;
     }
