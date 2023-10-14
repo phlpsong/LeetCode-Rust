@@ -113,6 +113,7 @@ As a Rust beginner, this repository is create for practice and learning. You are
 | 567 | [Permutation in string](https://leetcode.cn/problems/permutation-in-string/) | [solution](./src/permutation-in-string/src/main.rs)  | Medium |
 |  | [Duplicate number in array](https://leetcode.cn/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/) | [solution](./src/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/src/main.rs)  | Easy |
 |  | [Two sum](https://leetcode.cn/problems/two_sum/) | [solution](./src/two_sum/src/main.rs)  | Easy |
+| 500 | [Keyboard row](https://leetcode.cn/problems/keyboard-row/) | [solution](./src/keyboard-row/src/main.rs)  | Easy |
 | 506 | [Relative ranks](https://leetcode.cn/problems/relative-ranks/) | [solution](./src/relative-ranks/src/main.rs)  | Easy |
 
 
