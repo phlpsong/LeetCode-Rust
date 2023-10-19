@@ -74,6 +74,7 @@ As a Rust beginner, this repository is create for practice and learning. You are
 |  #   | Title  | Solution | Difficulty |
 |  ----  | ----  | ----  | ----  |
 | 20 | [Valid parentheses](https://leetcode.cn/problems/valid-parentheses/) | [solution](./src/valid-parentheses/src/main.rs)  | Easy |
+| 1047 | [Remove all adjacent duplicates in string](https://leetcode.cn/problems/remove-all-adjacent-duplicates-in-string/) | [solution](./src/remove-all-adjacent-duplicates-in-string/src/main.rs)  | Easy |
 
 ## Binary Search
 
