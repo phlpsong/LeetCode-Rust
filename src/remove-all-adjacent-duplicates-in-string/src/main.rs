@@ -6,23 +6,17 @@ struct Solution { }
 
 impl Solution {
     pub fn remove_duplicates(s: String) -> String {
-        let mut vec: Vec<char> = vec![];
-        let chars: Vec<char> = s.chars().into_iter().collect();
-        for char in chars {
-            if !vec.is_empty() {
-                if let Some(&val) = vec.last() {
-                    if val == char {
-                        vec.pop();
-                    } else {
-                        vec.push(char);
-                    }
-                } 
-            } else {
-                vec.push(char);
+        let mut stack: Vec<char> = vec![];
+
+        s.chars().for_each(|ch| {
+            match stack.last() {
+                Some(&val) if val == ch => {
+                    stack.pop();
+                }
+                _ => stack.push(ch),
             }
-        }
-        let res: String = vec.into_iter().collect();
-        res
+        });
+        stack.into_iter().collect()
     }
 }
 
