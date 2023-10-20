@@ -40,6 +40,7 @@ As a Rust beginner, this repository is create for practice and learning. You are
 | 1287 | [Element appearing more than 25 in sorted array](https://leetcode.cn/problems/element-appearing-more-than-25-in-sorted-array/) | [solution](./src/element-appearing-more-than-25-in-sorted-array/src/main.rs)  | Easy |
 | 1295 | [Find numbers with even number of digits](https://leetcode.cn/problems/find-numbers-with-even-number-of-digits/) | [solution](./src/find-numbers-with-even-number-of-digits/src/main.rs)  | Easy |
 | 1464 | [Maximum product of two elements in an array](https://leetcode.cn/problems/maximum-product-of-two-elements-in-an-array/) | [solution](./src/maximum-product-of-two-elements-in-an-array/src/main.rs)  | Easy |
+| 1614 | [Maximum nesting depth of the parentheses](https://leetcode.cn/problems/maximum-nesting-depth-of-the-parentheses/) | [solution](./src/maximum-nesting-depth-of-the-parentheses/src/main.rs)  | Easy |
 
 ## String
 |  #   | Title  | Solution | Difficulty |
