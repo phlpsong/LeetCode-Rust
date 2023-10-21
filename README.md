@@ -41,6 +41,7 @@ As a Rust beginner, this repository is create for practice and learning. You are
 | 1295 | [Find numbers with even number of digits](https://leetcode.cn/problems/find-numbers-with-even-number-of-digits/) | [solution](./src/find-numbers-with-even-number-of-digits/src/main.rs)  | Easy |
 | 1464 | [Maximum product of two elements in an array](https://leetcode.cn/problems/maximum-product-of-two-elements-in-an-array/) | [solution](./src/maximum-product-of-two-elements-in-an-array/src/main.rs)  | Easy |
 | 1614 | [Maximum nesting depth of the parentheses](https://leetcode.cn/problems/maximum-nesting-depth-of-the-parentheses/) | [solution](./src/maximum-nesting-depth-of-the-parentheses/src/main.rs)  | Easy |
+| LCR 147 | [Minimum stack](https://leetcode.cn/problems/bao-han-minhan-shu-de-zhan-lcof/) | [solution](./src/bao-han-minhan-shu-de-zhan-lcof/src/main.rs)  | Easy |
 
 ## String
 |  #   | Title  | Solution | Difficulty |
