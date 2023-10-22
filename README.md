@@ -122,6 +122,7 @@ As a Rust beginner, this repository is create for practice and learning. You are
 | 506 | [Relative ranks](https://leetcode.cn/problems/relative-ranks/) | [solution](./src/relative-ranks/src/main.rs)  | Easy |
 | 884 | [Uncommon from sentences](https://leetcode.cn/problems/uncommon_from_sentences/) | [solution](./src/uncommon_from_sentences/src/main.rs)  | Easy |
 | 1002 | [Find common characters](https://leetcode.cn/problems/find-common-characters/) | [solution](./src/find-common-characters/src/main.rs)  | Easy |
+| 1365 | [How many numbers are smaller than the current number](https://leetcode.cn/problems/how-many-numbers-are-smaller-than-the-current-number/) | [solution](./src/how-many-numbers-are-smaller-than-the-current-number/src/main.rs)  | Easy |
 
 
 ## Dynamic Programming
