@@ -22,6 +22,7 @@ As a Rust beginner, this repository is create for practice and learning. You are
 | 27 | [remove-element](https://leetcode.cn/problems/remove-element/) | [solution](./src/remove-element/src/main.rs)  | Easy |
 |  | [Single number](https://leetcode.cn/problems/single-number/) | [solution](./src/single-number/src/main.rs)  | Easy |
 | 54 | [Spiral matrix](https://leetcode.cn/problems/spiral-matrix/) | [solution](./src/spiral-matrix/src/main.rs)  | Medium |
+| 80 | [Remove duplicates from sorted array II](https://leetcode.cn/problems/remove-duplicates-from-sorted-array-ii/) | [solution](./src/remove-duplicates-from-sorted-array-ii/src/main.rs)  | Medium |
 |  | [Removespiral matrix ii](https://leetcode.cn/problems/spiral-matrix-ii/) | [solution](./src/spiral-matrix-ii/src/main.rs)  | Easy |
 | 350 | [Intersection of two arrays II](https://leetcode.cn/problems/intersection-of-two-arrays-ii/) | [solution](./src/intersection-of-two-arrays-ii/src/main.rs)  | Easy |
 | 349 | [Intersection of two arrays](https://leetcode.cn/problems/intersection-of-two-arrays/) | [solution](./src/intersection-of-two-arrays/src/main.rs)  | Easy |
