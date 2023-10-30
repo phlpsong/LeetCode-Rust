@@ -32,6 +32,7 @@ As a Rust beginner, this repository is create for practice and learning. You are
 | 682 | [Baseball game](https://leetcode.cn/problems/baseball-game/) | [solution](./src/baseball-game/src/main.rs)  | Easy |
 | 697 | [Degree of an array](https://leetcode.cn/problems/degree-of-an-array/) | [solution](./src/degree-of-an-array/src/main.rs)  | Easy |
 | 724 | [Find pivot index](https://leetcode.cn/problems/find-pivot-index/) | [solution](./src/find-pivot-index/src/main.rs)  | Easy |
+| 877 | [Stone game](https://leetcode.cn/problems/stone_game/) | [solution](./src/stone_game/src/main.rs)  | Easy |
 | 896 | [Monotonic array](https://leetcode.cn/problems/monotonic-array/) | [solution](./src/monotonic-array/src/main.rs)  | Easy |
 | 905 | [sort_array_by_parity](https://leetcode.cn/problems/sort_array_by_parity/) | [solution](./src/sort-array-by-parity/src/main.rs)  | Easy |
 | 922 | [Sort array by parity II](https://leetcode.cn/problems/sort_array_by_parity-ii/) | [solution](./src/sort-array-by-parity-ii/src/main.rs)  | Easy |
