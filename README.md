@@ -115,21 +115,23 @@ As a Rust beginner, this repository is create for practice and learning. You are
 ## Hash Map
 |  #   | Title  | Solution | Difficulty |
 |  ----  | ----  | ----  | ----  |
-| 2351 | [First letter to appear twice](https://leetcode.cn/problems/first-letter-to-appear-twice/) | [solution](./src/first-letter-to-appear-twice/src/main.rs)  | Easy |
-|  | [Is unique lcci](https://leetcode.cn/problems/is-unique-lcci/) | [solution](./src/is-unique-lcci/src/main.rs)  | Easy |
-| 128 | [Longest consecutive sequence](https://leetcode.cn/problems/longest-consecutive-sequence/) | [solution](./src/longest-consecutive-sequence/src/main.rs)  | Easy |
-| 409 | [Longest palindrome](https://leetcode.cn/problems/longest-palindrome/) | [solution](./src/longest-palindrome/src/main.rs)  | Easy |
 | 3 | [Longest substring without repeating characters](https://leetcode.cn/problems/longest-substring-without-repeating-characters/) | [solution](./src/longest-substring-without-repeating-characters/src/main.rs)  | Medium |
-| 567 | [Permutation in string](https://leetcode.cn/problems/permutation-in-string/) | [solution](./src/permutation-in-string/src/main.rs)  | Medium |
-|  | [Duplicate number in array](https://leetcode.cn/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/) | [solution](./src/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/src/main.rs)  | Easy |
-|  | [Two sum](https://leetcode.cn/problems/two_sum/) | [solution](./src/two_sum/src/main.rs)  | Easy |
+| 128 | [Longest consecutive sequence](https://leetcode.cn/problems/longest-consecutive-sequence/) | [solution](./src/longest-consecutive-sequence/src/main.rs)  | Easy |
+| 347 | [Top k frequent elements](https://leetcode.cn/problems/top-k-frequent-elements/) | [solution](./src/top-k-frequent-elements/src/main.rs)  | Easy |
+| 409 | [Longest palindrome](https://leetcode.cn/problems/longest-palindrome/) | [solution](./src/longest-palindrome/src/main.rs)  | Easy |
 | 500 | [Keyboard row](https://leetcode.cn/problems/keyboard-row/) | [solution](./src/keyboard-row/src/main.rs)  | Easy |
 | 506 | [Relative ranks](https://leetcode.cn/problems/relative-ranks/) | [solution](./src/relative-ranks/src/main.rs)  | Easy |
+| 567 | [Permutation in string](https://leetcode.cn/problems/permutation-in-string/) | [solution](./src/permutation-in-string/src/main.rs)  | Medium |
+|  | [Two sum](https://leetcode.cn/problems/two_sum/) | [solution](./src/two_sum/src/main.rs)  | Easy |
 | 884 | [Uncommon from sentences](https://leetcode.cn/problems/uncommon_from_sentences/) | [solution](./src/uncommon_from_sentences/src/main.rs)  | Easy |
 | 1002 | [Find common characters](https://leetcode.cn/problems/find-common-characters/) | [solution](./src/find-common-characters/src/main.rs)  | Easy |
 | 1365 | [How many numbers are smaller than the current number](https://leetcode.cn/problems/how-many-numbers-are-smaller-than-the-current-number/) | [solution](./src/how-many-numbers-are-smaller-than-the-current-number/src/main.rs)  | Easy |
+| 2351 | [First letter to appear twice](https://leetcode.cn/problems/first-letter-to-appear-twice/) | [solution](./src/first-letter-to-appear-twice/src/main.rs)  | Easy |
 | 2418 | [Sort the people](https://leetcode.cn/problems/sort-the-people/) | [solution](./src/sort-the-people/src/main.rs)  | Easy |
 | 2678 | [Number of senior citizens](https://leetcode.cn/problems/number-of-senior-citizens/) | [solution](./src/number-of-senior-citizens/src/main.rs)  | Easy |
+|  | [Is unique lcci](https://leetcode.cn/problems/is-unique-lcci/) | [solution](./src/is-unique-lcci/src/main.rs)  | Easy |
+|  | [Duplicate number in array](https://leetcode.cn/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/) | [solution](./src/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/src/main.rs)  | Easy |
+
 
 ## Dynamic Programming
 
