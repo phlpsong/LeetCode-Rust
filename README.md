@@ -26,6 +26,7 @@ As a Rust beginner, this repository is create for practice and learning. You are
 |  | [Removespiral matrix ii](https://leetcode.cn/problems/spiral-matrix-ii/) | [solution](./src/spiral-matrix-ii/src/main.rs)  | Easy |
 | 350 | [Intersection of two arrays II](https://leetcode.cn/problems/intersection-of-two-arrays-ii/) | [solution](./src/intersection-of-two-arrays-ii/src/main.rs)  | Easy |
 | 349 | [Intersection of two arrays](https://leetcode.cn/problems/intersection-of-two-arrays/) | [solution](./src/intersection-of-two-arrays/src/main.rs)  | Easy |
+| 442 | [Find all duplicates in an array](https://leetcode.cn/problems/find-all-duplicates-in-an-array/) | [solution](./src/find-all-duplicates-in-an-array/src/main.rs)  | Easy |
 | 496 | [Next greater element I](https://leetcode.cn/problems/next-greater-element-i/) | [solution](./src/next-greater-element-i/src/main.rs)  | Easy |
 | 594 | [Longest harmonious subsequence](https://leetcode.cn/problems/longest-harmonious-subsequence/) | [solution](./src/longest-harmonious-subsequence/src/main.rs)  | Easy |
 | 674 | [Baseball game](https://leetcode.cn/problems/longest-continuous-increasing-subsequence/) | [solution](./src/longest-continuous-increasing-subsequence/src/main.rs)  | Easy |
