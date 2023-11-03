@@ -23,6 +23,7 @@ As a Rust beginner, this repository is create for practice and learning. You are
 | 485 | [Max consecutive ones](https://leetcode.cn/problems/max-consecutive-ones/) | [solution](./src/max-consecutive-ones/src/main.rs)  | Easy |
 | 496 | [Next greater element I](https://leetcode.cn/problems/next-greater-element-i/) | [solution](./src/next-greater-element-i/src/main.rs)  | Easy |
 | 503 | [Next greater element II](https://leetcode.cn/problems/next-greater-element-ii/) | [solution](./src/next-greater-element-ii/src/main.rs)  | Easy |
+| 561 | [Array partition](https://leetcode.cn/problems/array-partition/) | [solution](./src/array-partition/src/main.rs)  | Easy |
 | 594 | [Longest harmonious subsequence](https://leetcode.cn/problems/longest-harmonious-subsequence/) | [solution](./src/longest-harmonious-subsequence/src/main.rs)  | Easy |
 | 628 | [Maximum product of three numbers](https://leetcode.cn/problems/maximum-product-of-three-numbers/) | [solution](./src/maximum-product-of-three-numbers/src/main.rs)  | Easy |
 | 674 | [Baseball game](https://leetcode.cn/problems/longest-continuous-increasing-subsequence/) | [solution](./src/longest-continuous-increasing-subsequence/src/main.rs)  | Easy |
