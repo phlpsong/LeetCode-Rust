@@ -150,3 +150,4 @@ As a Rust beginner, this repository is create for practice and learning. You are
 ## Math
 
 | 9 | [Palindrome number](https://leetcode.cn/problems/palindrome-number/) | [solution](./src/palindrome-number/src/main.rs)  | Easy |
+| 202 | [Happy number](https://leetcode.cn/problems/happy-number/) | [solution](./src/happy-number/src/main.rs)  | Easy |
