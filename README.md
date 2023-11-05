@@ -121,6 +121,7 @@ As a Rust beginner, this repository is create for practice and learning. You are
 | 3 | [Longest substring without repeating characters](https://leetcode.cn/problems/longest-substring-without-repeating-characters/) | [solution](./src/longest-substring-without-repeating-characters/src/main.rs)  | Medium |
 | 128 | [Longest consecutive sequence](https://leetcode.cn/problems/longest-consecutive-sequence/) | [solution](./src/longest-consecutive-sequence/src/main.rs)  | Easy |
 | 347 | [Top k frequent elements](https://leetcode.cn/problems/top-k-frequent-elements/) | [solution](./src/top-k-frequent-elements/src/main.rs)  | Easy |
+| 383 | [Ransom note](https://leetcode.cn/problems/ransom-note/) | [solution](./src/ransom-note/src/main.rs)  | Easy |
 | 409 | [Longest palindrome](https://leetcode.cn/problems/longest-palindrome/) | [solution](./src/longest-palindrome/src/main.rs)  | Easy |
 | 500 | [Keyboard row](https://leetcode.cn/problems/keyboard-row/) | [solution](./src/keyboard-row/src/main.rs)  | Easy |
 | 506 | [Relative ranks](https://leetcode.cn/problems/relative-ranks/) | [solution](./src/relative-ranks/src/main.rs)  | Easy |
