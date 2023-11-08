@@ -35,6 +35,7 @@ As a Rust beginner, this repository is create for practice and learning. You are
 | 905 | [sort_array_by_parity](https://leetcode.cn/problems/sort_array_by_parity/) | [solution](./src/sort-array-by-parity/src/main.rs)  | Easy |
 | 915 | [Partition array into disjoint intervals](https://leetcode.cn/problems/partition-array-into-disjoint-intervals/) | [solution](./src/partition-array-into-disjoint-intervals/src/main.rs)  | Easy |
 | 922 | [Sort array by parity II](https://leetcode.cn/problems/sort_array_by_parity-ii/) | [solution](./src/sort-array-by-parity-ii/src/main.rs)  | Easy |
+| 946 | [Validate stack sequences](https://leetcode.cn/problems/validate_stack_sequences/) | [solution](./src/validate_stack_sequences/src/main.rs)  | Medium |
 | 961 | [N repeated element in size 2n array](https://leetcode.cn/problems/n-repeated-element-in-size-2n-array/) | [solution](./src/n-repeated-element-in-size-2n-array/src/main.rs)  | Easy |
 | 977 | [Squares of a sorted array](https://leetcode.cn/problems/squares-of-a-sorted-array/) | [solution](./src/squares-of-a-sorted-array/src/main.rs)  | Easy |
 | 1207 | [Unique number of occurrences](https://leetcode.cn/problems/unique-number-of-occurrences/) | [solution](./src/unique-number-of-occurrences/src/main.rs)  | Easy |
