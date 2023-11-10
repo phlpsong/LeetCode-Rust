@@ -121,6 +121,7 @@ As a Rust beginner, this repository is create for practice and learning. You are
 |  #   | Title  | Solution | Difficulty |
 |  ----  | ----  | ----  | ----  |
 | 3 | [Longest substring without repeating characters](https://leetcode.cn/problems/longest-substring-without-repeating-characters/) | [solution](./src/longest-substring-without-repeating-characters/src/main.rs)  | Medium |
+| 49 | [Group anagrams](https://leetcode.cn/problems/group_anagrams/) | [solution](./src/group_anagrams/src/main.rs)  | Medium |
 | 128 | [Longest consecutive sequence](https://leetcode.cn/problems/longest-consecutive-sequence/) | [solution](./src/longest-consecutive-sequence/src/main.rs)  | Easy |
 | 136 | [Single number](https://leetcode.cn/problems/single-number/) | [solution](./src/single-number/src/main.rs)  | Easy |
 | 137 | [Single number II](https://leetcode.cn/problems/single-number-ii/) | [solution](./src/single-number-ii/src/main.rs)  | Medium |
