@@ -57,6 +57,7 @@ As a Rust beginner, this repository is create for practice and learning. You are
 |  ----  | ----  | ----  | ----  |
 | 58 | [Length of last word](https://leetcode.cn/problems/length-of-last-word/) | [solution](./src/length-of-last-word/src/main.rs)  | Easy |
 | 125 | [alid palindrome](https://leetcode.cn/problems/valid-palindrome/) | [solution](./src/valid-palindrome/src/main.rs)  | Easy |
+| 520 | [Detect Capital](https://leetcode.cn/problems/detect-capital/) | [solution](./src/detect-capital/src/main.rs)  | Easy |
 | 657 | [Robot return to origin](https://leetcode.cn/problems/robot-return-to-origin/) | [solution](./src/robot-return-to-origin/src/main.rs)  | Easy |
 | 1768 | [Merge strings alternately](https://leetcode.cn/problems/merge-strings-alternately/) | [solution](./src/merge-strings-alternately/src/main.rs)  | Easy |
 
