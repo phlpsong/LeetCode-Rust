@@ -57,6 +57,7 @@ As a Rust beginner, this repository is create for practice and learning. You are
 |  ----  | ----  | ----  | ----  |
 | 58 | [Length of last word](https://leetcode.cn/problems/length-of-last-word/) | [solution](./src/length-of-last-word/src/main.rs)  | Easy |
 | 125 | [Valid palindrome](https://leetcode.cn/problems/valid-palindrome/) | [solution](./src/valid-palindrome/src/main.rs)  | Easy |
+| 392 | [Is subsequence](https://leetcode.cn/problems/is-subsequence/) | [solution](./src/is-subsequence/src/main.rs)  | Easy |
 | 412 | [Fizz Buzz](https://leetcode.cn/problems/fizz_buzz/) | [solution](./src/fizz_buzz/src/main.rs)  | Easy |
 | 520 | [Detect Capital](https://leetcode.cn/problems/detect-capital/) | [solution](./src/detect-capital/src/main.rs)  | Easy |
 | 521 | [Longest uncommon subsequence I](https://leetcode.cn/problems/longest-uncommon-subsequence-i/) | [solution](./src/longest-uncommon-subsequence-i/src/main.rs)  | Easy |
