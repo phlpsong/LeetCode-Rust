@@ -16,6 +16,7 @@ As a Rust beginner, this repository is create for practice and learning. You are
 | 88  | [Merge Sorted Array](https://leetcode.cn/problems/merge-sorted-array/) | [solution](./add_two_numbers/src/main.rs)  | Medium |
 | 169 | [Majority element](https://leetcode.cn/problems/majority-element/) | [solution](./src/majority-element/src/main.rs)  | Easy |
 | 278 | [Product of array except self](https://leetcode.cn/problems/product-of-array-except-self/) | [solution](./src/product-of-array-except-self/src/main.rs)  | Easy |
+| 287 | [Find the duplicate number](https://leetcode.cn/problems/find-the-duplicate-number/) | [solution](./src/find-the-duplicate-number/src/main.rs)  | Easy |
 | 349 | [Intersection of two arrays](https://leetcode.cn/problems/intersection-of-two-arrays/) | [solution](./src/intersection-of-two-arrays/src/main.rs)  | Easy |
 | 345 | [Reverse vowels of a string](https://leetcode.cn/problems/reverse-vowels-of-a-string/) | [solution](./src/reverse-vowels-of-a-string/src/main.rs)  | Easy |
 | 350 | [Intersection of two arrays II](https://leetcode.cn/problems/intersection-of-two-arrays-ii/) | [solution](./src/intersection-of-two-arrays-ii/src/main.rs)  | Easy |
