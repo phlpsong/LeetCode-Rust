@@ -168,3 +168,7 @@ As a Rust beginner, this repository is create for practice and learning. You are
 | 202 | [Happy number](https://leetcode.cn/problems/happy-number/) | [solution](./src/happy-number/src/main.rs)  | Easy |
 | 263 | [Ugly number](https://leetcode.cn/problems/ugly-number/) | [solution](./src/ugly-number/src/main.rs)  | Easy |
 | 507 | [Perfect number](https://leetcode.cn/problems/perfect-number/) | [solution](./src/perfect-number/src/main.rs)  | Medium |
+
+## Bit Operation
+
+| 461 | [Hamming distance](https://leetcode.cn/problems/hamming_distance/) | [solution](./src/hamming_distance/src/main.rs)  | Easy |

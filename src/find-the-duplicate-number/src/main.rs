@@ -9,13 +9,11 @@ impl Solution {
         let mut count = vec![0; nums.len()];
         for &num in nums.iter() {
             count[num as usize] = count[num as usize] + 1;
-        }
-
-        for index in 1..count.len() {
-            if count[index] > 1 {
-                return index as i32;
+            if count[num as usize] > 1 {
+                return num;
             }
         }
+
         0
     }
 }
