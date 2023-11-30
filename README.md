@@ -143,6 +143,7 @@ As a Rust beginner, this repository is create for practice and learning. You are
 | 884 | [Uncommon from sentences](https://leetcode.cn/problems/uncommon_from_sentences/) | [solution](./src/uncommon_from_sentences/src/main.rs)  | Easy |
 | 1002 | [Find common characters](https://leetcode.cn/problems/find-common-characters/) | [solution](./src/find-common-characters/src/main.rs)  | Easy |
 | 1365 | [How many numbers are smaller than the current number](https://leetcode.cn/problems/how-many-numbers-are-smaller-than-the-current-number/) | [solution](./src/how-many-numbers-are-smaller-than-the-current-number/src/main.rs)  | Easy |
+| 1394 | [Find lucky integer in an array](https://leetcode.cn/problems/find-lucky-integer-in-an-array/) | [solution](./src/find-lucky-integer-in-an-array/src/main.rs)  | Easy |
 | 2351 | [First letter to appear twice](https://leetcode.cn/problems/first-letter-to-appear-twice/) | [solution](./src/first-letter-to-appear-twice/src/main.rs)  | Easy |
 | 2418 | [Sort the people](https://leetcode.cn/problems/sort-the-people/) | [solution](./src/sort-the-people/src/main.rs)  | Easy |
 | 2678 | [Number of senior citizens](https://leetcode.cn/problems/number-of-senior-citizens/) | [solution](./src/number-of-senior-citizens/src/main.rs)  | Easy |
