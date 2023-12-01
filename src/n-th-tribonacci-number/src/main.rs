@@ -8,15 +8,18 @@ impl Solution {
         if n == 1 || n == 2 {
             return 1;
         }
-        let mut vec = vec![0; (n + 1) as usize];
-        vec[0] = 0;
-        vec[1] = 1;
-        vec[2] = 1;
+        let mut a = 0;
+        let mut b = 1;
+        let mut c = 1;
+        let mut res = 0;
         for index in 3..(n + 1) {
-            vec[index as usize] = vec[(index - 1) as usize] + vec[(index - 2) as usize] + vec[(index - 3) as usize];
+            res = a + b + c;
+            a = b;
+            b = c;
+            c = res;
         }
 
-        vec[n as usize]
+        res
     }
 }
 
