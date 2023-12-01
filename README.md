@@ -162,6 +162,7 @@ As a Rust beginner, this repository is create for practice and learning. You are
 | 119 | [Pascals triangle II](https://leetcode.cn/problems/pascals-triangle-ii) | [solution](./src/pascals-triangle-ii/src/main.rs)  | Easy |
 | 279 | [Perfect squares](https://leetcode.cn/problems/perfect-squares) | [solution](./src/perfect-squares/src/main.rs)  | Easy |
 | 509 | [Fibonacci number](https://leetcode.cn/problems/fibonacci-number/) | [solution](./src/fibonacci-number/src/main.rs)  | Easy |
+| 1137 | [N-th tribonacci number](https://leetcode.cn/problems/n-th-tribonacci-number/) | [solution](./src/n-th-tribonacci-number/src/main.rs)  | Easy |
 
 ## Math
 
