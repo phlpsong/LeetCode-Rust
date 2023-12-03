@@ -8,13 +8,13 @@ struct Solution { }
 
 impl Solution {
     pub fn smaller_numbers_than_current(nums: Vec<i32>) -> Vec<i32> {
-        let mut v = nums.clone();
-        v.sort();
-        let mut h = HashMap::new();
-        for i in 0..v.len() {
-            h.entry(v[i]).or_insert(i as i32);
+        let mut sort_nums = nums.clone();
+        sort_nums.sort();
+        let mut map = HashMap::new();
+        for index in 0..sort_nums.len() {
+            map.entry(sort_nums[index]).or_insert(index as i32);
         }
-        nums.into_iter().map(|x| *h.get(&x).unwrap()).collect()
+        nums.into_iter().map(|num| *map.get(&num).unwrap()).collect()
     }
 }
 

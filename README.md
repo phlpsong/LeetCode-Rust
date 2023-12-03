@@ -48,6 +48,7 @@ As a Rust beginner, this repository is create for practice and learning. You are
 | 1304 | [Find n unique integers sum up to zero](https://leetcode.cn/problems/find-n-unique-integers-sum-up-to-zero/) | [solution](./src/find-n-unique-integers-sum-up-to-zero/src/main.rs)  | Easy |
 | 1380 | [Lucky numbers in a matrix](https://leetcode.cn/problems/lucky-numbers-in-a-matrix/) | [solution](./src/lucky-numbers-in-a-matrix/src/main.rs)  | Easy |
 | 1464 | [Maximum product of two elements in an array](https://leetcode.cn/problems/maximum-product-of-two-elements-in-an-array/) | [solution](./src/maximum-product-of-two-elements-in-an-array/src/main.rs)  | Easy |
+| 1470 | [Shuffle the array](https://leetcode.cn/problems/shuffle-the-array/) | [solution](./src/shuffle-the-array/src/main.rs)  | Easy |
 | 1614 | [Maximum nesting depth of the parentheses](https://leetcode.cn/problems/maximum-nesting-depth-of-the-parentheses/) | [solution](./src/maximum-nesting-depth-of-the-parentheses/src/main.rs)  | Easy |
 | LCR 147 | [Minimum stack](https://leetcode.cn/problems/bao-han-minhan-shu-de-zhan-lcof/) | [solution](./src/bao-han-minhan-shu-de-zhan-lcof/src/main.rs)  | Easy |
 |  | [remove_duplicates](https://leetcode.cn/problems/remove_duplicates/) | [solution](./src/remove_duplicates/src/main.rs)  | Easy |
