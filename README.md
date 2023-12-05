@@ -173,6 +173,7 @@ As a Rust beginner, this repository is create for practice and learning. You are
 | 9 | [Palindrome number](https://leetcode.cn/problems/palindrome-number/) | [solution](./src/palindrome-number/src/main.rs)  | Easy |
 | 202 | [Happy number](https://leetcode.cn/problems/happy-number/) | [solution](./src/happy-number/src/main.rs)  | Easy |
 | 263 | [Ugly number](https://leetcode.cn/problems/ugly-number/) | [solution](./src/ugly-number/src/main.rs)  | Easy |
+| 292 | [Nim game](https://leetcode.cn/problems/nim-game/) | [solution](./src/nim-game/src/main.rs)  | Easy |
 | 507 | [Perfect number](https://leetcode.cn/problems/perfect-number/) | [solution](./src/perfect-number/src/main.rs)  | Medium |
 
 ## Bit Operation
