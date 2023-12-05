@@ -138,6 +138,7 @@ As a Rust beginner, this repository is create for practice and learning. You are
 | 137 | [Single number II](https://leetcode.cn/problems/single-number-ii/) | [solution](./src/single-number-ii/src/main.rs)  | Medium |
 | 347 | [Top k frequent elements](https://leetcode.cn/problems/top-k-frequent-elements/) | [solution](./src/top-k-frequent-elements/src/main.rs)  | Easy |
 | 383 | [Ransom note](https://leetcode.cn/problems/ransom-note/) | [solution](./src/ransom-note/src/main.rs)  | Easy |
+| 387 | [First unique character in a string](https://leetcode.cn/problems/first-unique-character-in-a-string/) | [solution](./src/first-unique-character-in-a-string/src/main.rs)  | Easy |
 | 409 | [Longest palindrome](https://leetcode.cn/problems/longest-palindrome/) | [solution](./src/longest-palindrome/src/main.rs)  | Easy |
 | 500 | [Keyboard row](https://leetcode.cn/problems/keyboard-row/) | [solution](./src/keyboard-row/src/main.rs)  | Easy |
 | 506 | [Relative ranks](https://leetcode.cn/problems/relative-ranks/) | [solution](./src/relative-ranks/src/main.rs)  | Easy |
