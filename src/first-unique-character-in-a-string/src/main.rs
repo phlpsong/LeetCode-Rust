@@ -5,14 +5,11 @@ struct Solution { }
 impl Solution {
     pub fn first_uniq_char(s: String) -> i32 {
         let mut map = HashMap::new();
-        let chars: Vec<char> = s.chars().collect();
-        chars.iter().for_each(|ch| {
-            *map.entry(ch).or_insert(0) += 1;
-        });
+        s.chars().for_each(|ch| *map.entry(ch).or_insert(0) += 1);
 
-        for index in 0..chars.len() {
-            if *map.get(&chars[index]).unwrap() == 1 {
-                return index as i32;
+        for (i, c) in s.chars().enumerate() {
+            if map[&c] == 1 {
+                return i as i32;
             }
         }
         -1
