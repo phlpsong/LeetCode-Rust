@@ -59,6 +59,7 @@ As a Rust beginner, this repository is create for practice and learning. You are
 |  #   | Title  | Solution | Difficulty |
 |  ----  | ----  | ----  | ----  |
 | 12 | [Integer to roman](https://leetcode.cn/problems/integer-to-roman/) | [solution](./src/integer-to-roman/src/main.rs)  | Medium |
+| 13 | [Roman to integer](https://leetcode.cn/problems/roman-to-integer/) | [solution](./src/roman-to-integer/src/main.rs)  | Medium |
 | 58 | [Length of last word](https://leetcode.cn/problems/length-of-last-word/) | [solution](./src/length-of-last-word/src/main.rs)  | Easy |
 | 125 | [Valid palindrome](https://leetcode.cn/problems/valid-palindrome/) | [solution](./src/valid-palindrome/src/main.rs)  | Easy |
 | 392 | [Is subsequence](https://leetcode.cn/problems/is-subsequence/) | [solution](./src/is-subsequence/src/main.rs)  | Easy |
