@@ -68,6 +68,7 @@ As a Rust beginner, this repository is create for practice and learning. You are
 | 521 | [Longest uncommon subsequence I](https://leetcode.cn/problems/longest-uncommon-subsequence-i/) | [solution](./src/longest-uncommon-subsequence-i/src/main.rs)  | Easy |
 | 657 | [Robot return to origin](https://leetcode.cn/problems/robot-return-to-origin/) | [solution](./src/robot-return-to-origin/src/main.rs)  | Easy |
 | 709 | [To lower case](https://leetcode.cn/problems/to-lower-case/) | [solution](./src/to-lower-case/src/main.rs)  | Easy |
+| 1189 | [Maximum number of balloons](https://leetcode.cn/problems/maximum-number-of-balloons/) | [solution](./src/maximum-number-of-balloons/src/main.rs)  | Easy |
 | 1662 | [Check if two string arrays are equivalent](https://leetcode.cn/problems/check-if-two-string-arrays-are-equivalent/) | [solution](./src/check-if-two-string-arrays-are-equivalent/src/main.rs)  | Easy |
 | 1768 | [Merge strings alternately](https://leetcode.cn/problems/merge-strings-alternately/) | [solution](./src/merge-strings-alternately/src/main.rs)  | Easy |
 
