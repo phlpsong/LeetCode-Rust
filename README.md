@@ -10,6 +10,7 @@ As a Rust beginner, this repository is create for practice and learning. You are
 |  ----  | ----  | ----  | ----  |
 | 27 | [remove-element](https://leetcode.cn/problems/remove-element/) | [solution](./src/remove-element/src/main.rs)  | Easy |
 | 39  | [Merge Sorted Array](https://leetcode.cn/problems/combination-sum/) | [solution](./src/combination-sum/src/main.rs)  | Medium |
+| 41  | [First missing positive](https://leetcode.cn/problems/first_missing_positive/) | [solution](./src/first_missing_positive/src/main.rs)  | Hard |
 | 54 | [Spiral matrix](https://leetcode.cn/problems/spiral-matrix/) | [solution](./src/spiral-matrix/src/main.rs)  | Medium |
 | 56 | [Merge intervals](https://leetcode.cn/problems/merge-intervals/) | [solution](./src/merge-intervals/src/main.rs)  | Medium |
 | 80 | [Remove duplicates from sorted array II](https://leetcode.cn/problems/remove-duplicates-from-sorted-array-ii/) | [solution](./src/remove-duplicates-from-sorted-array-ii/src/main.rs)  | Medium |
