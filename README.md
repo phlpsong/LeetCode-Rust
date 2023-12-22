@@ -154,6 +154,7 @@ As a Rust beginner, this repository is create for practice and learning. You are
 | 1002 | [Find common characters](https://leetcode.cn/problems/find-common-characters/) | [solution](./src/find-common-characters/src/main.rs)  | Easy |
 | 1365 | [How many numbers are smaller than the current number](https://leetcode.cn/problems/how-many-numbers-are-smaller-than-the-current-number/) | [solution](./src/how-many-numbers-are-smaller-than-the-current-number/src/main.rs)  | Easy |
 | 1394 | [Find lucky integer in an array](https://leetcode.cn/problems/find-lucky-integer-in-an-array/) | [solution](./src/find-lucky-integer-in-an-array/src/main.rs)  | Easy |
+| 1796 | [Second largest digit in a string](https://leetcode.cn/problems/second-largest-digit-in-a-string/) | [solution](./src/second-largest-digit-in-a-string/src/main.rs)  | Easy |
 | 1941 | [Check if all characters have equal number of occurrences](https://leetcode.cn/problems/check-if-all-characters-have-equal-number-of-occurrences/) | [solution](./src/check-if-all-characters-have-equal-number-of-occurrences/src/main.rs)  | Easy |
 | 2351 | [First letter to appear twice](https://leetcode.cn/problems/first-letter-to-appear-twice/) | [solution](./src/first-letter-to-appear-twice/src/main.rs)  | Easy |
 | 2418 | [Sort the people](https://leetcode.cn/problems/sort-the-people/) | [solution](./src/sort-the-people/src/main.rs)  | Easy |
