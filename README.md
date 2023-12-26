@@ -142,6 +142,7 @@ As a Rust beginner, this repository is create for practice and learning. You are
 | 128 | [Longest consecutive sequence](https://leetcode.cn/problems/longest-consecutive-sequence/) | [solution](./src/longest-consecutive-sequence/src/main.rs)  | Easy |
 | 136 | [Single number](https://leetcode.cn/problems/single-number/) | [solution](./src/single-number/src/main.rs)  | Easy |
 | 137 | [Single number II](https://leetcode.cn/problems/single-number-ii/) | [solution](./src/single-number-ii/src/main.rs)  | Medium |
+| 229 | [Majority element II](https://leetcode.cn/problems/majority-element-ii/) | [solution](./src/majority-element-ii/src/main.rs)  | Medium |
 | 260 | [Single number III](https://leetcode.cn/problems/single-number-iii/) | [solution](./src/single-number-iii/src/main.rs)  | Easy |
 | 347 | [Top k frequent elements](https://leetcode.cn/problems/top-k-frequent-elements/) | [solution](./src/top-k-frequent-elements/src/main.rs)  | Easy |
 | 383 | [Ransom note](https://leetcode.cn/problems/ransom-note/) | [solution](./src/ransom-note/src/main.rs)  | Easy |
