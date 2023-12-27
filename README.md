@@ -101,6 +101,7 @@ As a Rust beginner, this repository is create for practice and learning. You are
 |  ----  | ----  | ----  | ----  |
 | 20 | [Valid parentheses](https://leetcode.cn/problems/valid-parentheses/) | [solution](./src/valid-parentheses/src/main.rs)  | Easy |
 | 232 | [Implement queue using stacks](https://leetcode.cn/problems/implement-queue-using-stacks) | [solution](./src/implement-queue-using-stacks/src/main.rs)  | Easy |
+| 678 | [Valid parenthesis string](https://leetcode.cn/problems/valid-parenthesis-string) | [solution](./src/valid-parenthesis-string/src/main.rs)  | Easy |
 | 1021 | [Remove outer parentheses](https://leetcode.cn/problems/remove_outer_parentheses/) | [solution](./src/remove_outer_parentheses/src/main.rs)  | Easy |
 | 1047 | [Remove all adjacent duplicates in string](https://leetcode.cn/problems/remove-all-adjacent-duplicates-in-string/) | [solution](./src/remove-all-adjacent-duplicates-in-string/src/main.rs)  | Easy |
 
