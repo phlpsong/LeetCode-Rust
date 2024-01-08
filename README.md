@@ -132,6 +132,7 @@ As a Rust beginner, this repository is create for practice and learning. You are
 |  ----  | ----  | ----  | ----  |
 | 389 | [Find the difference](https://leetcode.cn/problems/find-the-difference/) | [solution](./src/find-the-difference/src/main.rs)  | Easy |
 | 747 | [Largest number at least twice of others](https://leetcode.cn/problems/largest-number-at-least-twice-of-others/) | [solution](./src/largest-number-at-least-twice-of-others/src/main.rs)  | Easy |
+| 912 | [Sort an array](https://leetcode.cn/problems/sort-an-array/) | [solution](./src/sort-an-array/src/main.rs)  | Easy |
 |  | [Most small k of numbers](https://leetcode.cn/problems/zui-xiao-de-kge-shu-lcof/) | [solution](./src/zui-xiao-de-kge-shu-lcof/src/main.rs)  | Easy |
 |  | [Check Permutation](https://leetcode.cn/problems/check-permutation-lcci/) | [solution](./src/check-permutation-lcci/src/main.rs)  | Easy |
 
